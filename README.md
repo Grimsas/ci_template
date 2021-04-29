@@ -76,6 +76,3 @@ All the visual conten is developed by me, except the fonts used in the game.
 [http://www.sickcapital.com/fonts/snowinter/](Snowinter)
 [https://www.atipofoundry.com/fonts/silka](SilkaRegular)
 
-### Acknowledgements
-
-- I received inspiration for this project from My Wife and kids.
